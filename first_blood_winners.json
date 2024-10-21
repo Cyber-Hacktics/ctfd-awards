@@ -1,0 +1,109 @@
+[
+    {
+        "challenge_name": "NeonHack",
+        "team_name": "Quantum Outlaws",
+        "team_members": [
+            "TechSavant",
+            "GridPhantom",
+            "NeonNyx",
+            "CyberSilhouette",
+            "DigitalRonin"
+        ]
+    },
+    {
+        "challenge_name": "CipherCrypt",
+        "team_name": "Neon Syndicate",
+        "team_members": [
+            "NeonSpectre",
+            "CyberVortex",
+            "QuantumRebel",
+            "ElectricNinja",
+            "PixelShad0w"
+        ]
+    },
+    {
+        "challenge_name": "QuantumOverflow",
+        "team_name": "Neon Syndicate",
+        "team_members": [
+            "NeonSpectre",
+            "CyberVortex",
+            "QuantumRebel",
+            "ElectricNinja",
+            "PixelShad0w"
+        ]
+    },
+    {
+        "challenge_name": "CircuitQuest",
+        "team_name": "Quantum Outlaws",
+        "team_members": [
+            "TechSavant",
+            "GridPhantom",
+            "NeonNyx",
+            "CyberSilhouette",
+            "DigitalRonin"
+        ]
+    },
+    {
+        "challenge_name": "PixelInfiltration",
+        "team_name": "Quantum Outlaws",
+        "team_members": [
+            "TechSavant",
+            "GridPhantom",
+            "NeonNyx",
+            "CyberSilhouette",
+            "DigitalRonin"
+        ]
+    },
+    {
+        "challenge_name": "NeuralLink",
+        "team_name": "Quantum Outlaws",
+        "team_members": [
+            "TechSavant",
+            "GridPhantom",
+            "NeonNyx",
+            "CyberSilhouette",
+            "DigitalRonin"
+        ]
+    },
+    {
+        "challenge_name": "BotNetPurge",
+        "team_name": "Chrome Collective",
+        "team_members": [
+            "GlitchWyrm",
+            "CircuitHunter",
+            "SynthGhost",
+            "ByteRunner",
+            "HoloRogue"
+        ]
+    },
+    {
+        "challenge_name": "DataPhantom",
+        "team_name": "TechnoRebels",
+        "team_members": [
+            "ChromeSamurai",
+            "LuminousCipher"
+        ]
+    },
+    {
+        "challenge_name": "SynthKey",
+        "team_name": "Quantum Outlaws",
+        "team_members": [
+            "TechSavant",
+            "GridPhantom",
+            "NeonNyx",
+            "CyberSilhouette",
+            "DigitalRonin"
+        ]
+    },
+    {
+        "challenge_name": "ShadowScript",
+        "team_name": "Neon Syndicate",
+        "team_members": [
+            "NeonSpectre",
+            "CyberVortex",
+            "QuantumRebel",
+            "ElectricNinja",
+            "PixelShad0w"
+        ]
+    }
+]
